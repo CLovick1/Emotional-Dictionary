@@ -29,6 +29,10 @@ input[type="text"] {
   padding: 0.5em;
   font-size: 1em;
 }
+pre {
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}
 ul {
   list-style-type: none;
   padding-left: 0;
