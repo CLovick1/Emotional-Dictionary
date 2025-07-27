@@ -1,0 +1,2 @@
+# Emotional-Dictionary
+Emotional Dictionary
